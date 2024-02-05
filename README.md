@@ -1,0 +1,1 @@
+## just trying to learn about functions with output on Python
